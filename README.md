@@ -14,6 +14,17 @@ First, clone the repository to your local machine:
 git clone https://github.com/Keiththecoder/EnterpriseConnect-DiscussionBoards-Version2.0.git
 ```
 
+ Create a Virtual Environment in the Folder
+```bash
+python3 -m venv venv
+```
+Activate the Environment
+
+```bash
+source venv/bin/activate
+```
+
+
 Install the requirements:
 
 ```bash
